@@ -1,6 +1,7 @@
 # BillBuddy - Shared Expense Tracker
 
-**Live Project:** [BillBuddy](https://billbuddy-frontend.onrender.com)
+<p align="center"><strong>🔗 Live Project: <a href="https://billbuddy-frontend.onrender.com">BillBuddy</a></strong></p>
+
 
 BillBuddy is a full-stack MERN application designed to simplify tracking and splitting shared expenses among groups. It replaces inefficient manual methods by providing a clean, mobile-responsive platform to manage complex, multi-person transactions with transparency and persistence.
 
@@ -9,7 +10,7 @@ BillBuddy is a full-stack MERN application designed to simplify tracking and spl
 ### Core Features
 
 *   **Secure User Authentication**: Register and log in with a unique username/email and a securely hashed password.
-*   **Event-Based Tracking**: Create private events (e.g., "Goa Trip", "Monthly Rent") with a dedicated currency (USD or INR).
+*   **Event-Based Tracking**: Create private events (e.g., "Friends Trip", "Weekend Dinner") with a dedicated currency (USD or INR).
 *   **Flexible Expense Entry**: Add expenses with a "per-person cost" model, allowing for uneven splits within a single transaction.
 *   **Transparent Debt Calculation**: The app calculates the direct, pair-wise net debt between members. There is no confusing simplification (e.g., A owes B, B owes C -> A owes C). It's always the direct debt.
 *   **One-Click Debt Settlement**: The person who is owed money can mark a debt as paid with a single click, which updates the event's balance in real-time.
