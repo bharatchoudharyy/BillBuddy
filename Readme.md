@@ -1,6 +1,6 @@
 # BillBuddy - Shared Expense Tracker
 
-Live Project: [BillBuddy](https://billbuddy-frontend.onrender.com)
+**Live Project:** [BillBuddy](https://billbuddy-frontend.onrender.com)
 
 BillBuddy is a full-stack MERN application designed to simplify tracking and splitting shared expenses among groups. It replaces inefficient manual methods by providing a clean, mobile-responsive platform to manage complex, multi-person transactions with transparency and persistence.
 
